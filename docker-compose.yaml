@@ -1,4 +1,4 @@
-# version: "3.9"
+# version: "3.9" this is he curret version 
 
 services:
   app:
