@@ -1,17 +1,15 @@
-"""
+"""Calculator functions"""
 
-calculator funstions
-
-"""
-
-def add(x,y):
-    # add x and y toghteher
+def add(x, y):
+    """Add x and y together"""
     return x + y
 
-def substract(x,y):
-    # add x and y toghteher
+
+def subtract(x, y):
+    """Subtract y from x"""
     return x - y
 
-def divide(x,y):
-    # add x and y toghteher
+
+def divide(x, y):
+    """Divide x by y"""
     return x / y
